@@ -17,6 +17,9 @@ insights into sales performance, identify trends, and make informed business dec
 The dataset used for this analysis is located in the data directory. it was gotten from the organization It includes sales data spanning a specific time period, 
 containing information such as sales, country, marital status, customer Id, customer name, customer value, order date, birthdate, revenue, RevenueX, sales, lastname,
 firstname, yearly income.
+![Screenshot 2024-08-12 152416](https://github.com/user-attachments/assets/86379a1a-98c0-445a-9527-d596cf2fe943)
+![Screenshot 2024-08-12 160114](https://github.com/user-attachments/assets/b8ae0e1b-33ff-4d4a-b7e1-1621895890a0)
+
 
  # TOOLS USED AND DATA SOURCE:
 
@@ -58,6 +61,9 @@ TIME SERIES ANALYSIS: Time-based patterns are time intelligence was calculated, 
 # FINAL DASHBOARD
 
 The dashboard below display the key performance indicator that meet the needs of the stakeholders and provides them with an overview of the business performance. the presence of filter for the following [total revenue, count of countries, average revenue, maximum and minimum, customer value, revenue by days and month.] on the dashboard makes it more interactive
+
+![HUB IT limited dashboard](https://github.com/user-attachments/assets/a2361b37-5ecb-4aa6-9c14-eb2a48474200)
+
 
 
 
