@@ -79,6 +79,13 @@ The dashboard below display the key performance indicator that meet the needs of
 
 ![HUB IT limited dashboard](https://github.com/user-attachments/assets/a2361b37-5ecb-4aa6-9c14-eb2a48474200)
 
+ RECOMENDATION  Considering the findings, the following recommendations are made:
+
+Allocate marketing resources to capitalize on seasonal peaks. Further promote the top-selling country to maximize revenue. Plan targeted promotions during periods of high average order values. Usage To replicate or build upon this analysis:
+Encourage advertisement and customer recognition
+
+Contributing Contributions to this analysis are welcome! If you have suggestions, improvements, or bug fixes, feel free to submit a pull request.
+
 
 
 
