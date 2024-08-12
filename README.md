@@ -35,11 +35,11 @@ firstname, yearly income.
 
 # DATA CLEANING AND PREPROCESSING:
 
-The raw data is cleaned and formatted to ensure accurate analysis.
-The customer value was created to group the customer base on their their revenue
-The full name was done by concatenation
-Customers age and age band was also created
-The current customer age and age category was analysed
+#### The raw data is cleaned and formatted to ensure accurate analysis.
+#### The customer value was created to group the customer base on their their revenue
+#### The full name was done by concatenation
+#### Customers age and age band was also created
+#### The current customer age and age category was analysed
 
 ## EXPLORATORY DATA ANALYSIS (EDA):
 
