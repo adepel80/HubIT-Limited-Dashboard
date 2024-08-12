@@ -40,8 +40,24 @@ KPI
 caus
 To help the stakeholders better understand the revenue performance, 4 key performance indicators were highlighted
 
-# • REVENUE BY CUSTOMER VALUE
+##  10 countries
+##  Total customer 17422
+##  Total revenue £21,764,6
+##  Maximum revenue £5,398
+## • REVENUE BY CUSTOMER VALUE
 convinced seeeker has 70% of the whole revenue with total revenue of £15,133,853 while brand follows with just 17% accumulating to £3,757,356 and casual buyer
 has the least with 13% resulting to £2,873,420
+# REVENUE by days
+most of the revenue was generated on sunday and monday
+# Revenue by months
+least sales was recorded from June to october
+# Revenue by years
+the highest revenue was made in year 2013 with approximtely £8,278,860
+SALES METRIC CALCULATION: Key performance metrics, such as total revenue, REVENUE X, cost price, average order value, and top-selling products, are calculated.
+TIME SERIES ANALYSIS: Time-based patterns are time intelligence was calculated, extracting the necessary information from the order date and sales information
+# FINAL DASHBOARD
+
+The dashboard below display the key performance indicator that meet the needs of the stakeholders and provides them with an overview of the business performance. the presence of filter for the following [total revenue, count of countries, average revenue, maximum and minimum, customer value, revenue by days and month.] on the dashboard makes it more interactive
+
 
 
