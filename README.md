@@ -1,5 +1,7 @@
 # HubIT-Limited-Dashboard
 HubIT LIMITED is a tech startup in Nigeria, the analysis is solely to brings about insight to the sales of the organization 
+![HUB IT](https://github.com/user-attachments/assets/8e50b0f4-aa20-405a-908a-76d43aab601c)
+
 
  # CONTEXT
 
@@ -69,7 +71,7 @@ Male accumulated most of the sales with 54% which amount to £11,737,204
 female acuumulated the least sales with 46% which amount to £10, 027, 425
 ![image](https://github.com/user-attachments/assets/690c6f36-e351-4c1d-a14b-f4b57bd0c210)
 
-SALES METRIC CALCULATION: Key performance metrics, such as total revenue, REVENUE X, cost price, average order value, and top-selling products, are calculated.
+SALES METRIC CALCULATION: Key performance metrics, such as total revenue, average revenue, maximum revenue, count of countries, total customers was calculated
 TIME SERIES ANALYSIS: Time-based patterns are time intelligence was calculated, extracting the necessary information from the order date and sales information
 # FINAL DASHBOARD
 
